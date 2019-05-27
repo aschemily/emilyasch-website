@@ -42,7 +42,7 @@ body{
   font-family: 'Asap', sans-serif;
   font-size: 500px;
   text-align: center;
-  color: white;
+
   position: relative;
   display: inline;
 } */
@@ -60,6 +60,10 @@ body{
 }
 
 #circle{
-  border-radius: 50px 50px 50px 50px;
+  border-radius: 50%;
+  height: 90px;
+  width: 90px;
+  background-color: transparent;
   border: 2px solid black;
+  display: inline-block;
 }

@@ -9,7 +9,7 @@ function Skills (){
       <div id='skills'>
       <img id='computer' src={require('./computer.jpg')}/>
       <h1 id='skill'>SKILLS</h1>
-      <Grid.Row columns={6}>
+      <Grid.Row columns={3}>
 
       <Grid.Column>
       <Segment id='circle'>Ruby </Segment>
