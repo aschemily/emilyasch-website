@@ -16,17 +16,42 @@ function Skills (){
       </Grid.Column>
 
       <Grid.Column>
-      <Segment id='circle'>>Ruby on Rails</Segment>
+      <Segment id='circle'>Ruby on Rails</Segment>
       </Grid.Column>
 
-      <h3>JavaScript</h3>
-      <h3>React</h3>
-      <h3>SQL</h3>
-      <h3>REST</h3>
-      <h3>HTML / HTML5</h3>
-      <h3>CSS</h3>
-      <h3>Semantic</h3>
-      <h3>Bootstrap</h3>
+      <Grid.Column>
+      <Segment id='circle'>JavaScript</Segment>
+      </Grid.Column>
+
+      <Grid.Column>
+      <Segment id='circle'>React</Segment>
+      </Grid.Column>
+
+
+      <Grid.Column>
+      <Segment id='circle'>SQL</Segment>
+      </Grid.Column>
+
+      <Grid.Column>
+      <Segment id='circle'>REST</Segment>
+      </Grid.Column>
+
+      <Grid.Column>
+      <Segment id='circle'>HTML / HTML5</Segment>
+      </Grid.Column>
+
+      <Grid.Column>
+      <Segment id='circle'>CSS</Segment>
+      </Grid.Column>
+
+      <Grid.Column>
+      <Segment id='circle'>Semantic</Segment>
+      </Grid.Column>
+
+      <Grid.Column>
+      <Segment id='circle'>Bootstrap</Segment>
+      </Grid.Column>
+
       </Grid.Row>
       </div>
     </div>

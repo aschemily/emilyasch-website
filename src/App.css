@@ -38,19 +38,19 @@ body{
   position: relative;
 }
 
-#skills{
+/* #skills{
   font-family: 'Asap', sans-serif;
   font-size: 500px;
   text-align: center;
   color: white;
   position: relative;
   display: inline;
-}
+} */
 
-#skill{
+/* #skill{
   font-family: 'Asap', sans-serif;
   font-size: 50px;
-}
+} */
 
 #computer{
   position: absolute;
